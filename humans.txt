@@ -1,0 +1,8 @@
+/* This template was made by Saldum, design in Alicante, Spain */
+/* saldum.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Codeigniter, Foundation
+  Software: 
