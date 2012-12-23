@@ -9,14 +9,12 @@
             <hr />
             <div class="row">
                 <div class="six columns">
-                    <p>&copy; Copyright no one at all. Go to town.</p>
+                    <p>&copy; Copyright... please use Creative Commons.</p>
                 </div>
                 <div class="six columns">
                     <ul class="link-list right">
                         <li><a href="#">Section 1</a></li>
                         <li><a href="#">Section 2</a></li>
-                        <li><a href="#">Section 3</a></li>
-                        <li><a href="#">Section 4</a></li>
                     </ul>
                 </div>
             </div>
@@ -26,6 +24,8 @@
     <!-- Foundation JS -->
     <script src="<?php echo $resources;?>plugins/foundation/javascripts/foundation.min.js"></script>
     <script src="<?php echo $resources;?>plugins/foundation/javascripts/app.js"></script>
+    
+    <!-- Add your JS here -->
     
     </body>
 </html>

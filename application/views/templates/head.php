@@ -58,9 +58,6 @@
     <!-- Modernizr -->
     <script src="<?php echo $resources;?>plugins/foundation/javascripts/modernizr.foundation.js"></script>
     
-    <!-- jQuery Google CDN --> 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    
     <!-- IE Fix for HTML5 Tags -->
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
