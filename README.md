@@ -9,7 +9,6 @@ Codeigniter php framework with Foundation css framework ready to start a new pro
 
 - Codeigniter 2.1.3
 - Foundation 3.2.2
-- jQuery 1.8.3
 
 ## Team
 
